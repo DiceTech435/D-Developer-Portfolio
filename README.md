@@ -3,6 +3,8 @@
 
 <b>Dynamic portfolio with PHP, JQUERY, AJAX AND SQL</b><p>
 
+![App Screenshot](./assets/img/images/portfolio.png)
+
 <b>==== STEPS TO RUN ====</b>
 
 - Locate and import execute the <b>"dice.sql"</b> on <b>"DB sql"</b> folder
