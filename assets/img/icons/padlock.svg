@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Padlock--Streamline-Atlas" viewBox="0 0 64 64" height="64" width="64">
+  <desc>
+    Padlock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <defs/>
+  <path d="M6.125 27.625h47.725V56.25H6.125Z" fill="none" stroke="#4770FF" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="M30 3.75a16.7 16.7 0 0 1 16.7 16.7V27.5H13.3V20.45A16.7 16.7 0 0 1 30 3.75Z" fill="none" stroke="#4770FF" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="M27.625 39.55a2.375 2.375 0 1 0 4.75 0 2.375 2.375 0 1 0 -4.75 0" fill="none" stroke="#4770FF" stroke-miterlimit="10" stroke-width="2"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="m30 49.1 0 -7.175000000000001" fill="none" stroke="#4770FF" stroke-miterlimit="10" stroke-width="2"/>
+<defs>
+<clipPath id="clip0_17_2069">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>
