@@ -12,12 +12,10 @@
 - Open <b>"localhost/path-to-file/posts.php"</b> in the Browser
 - You are Done!!
 
-
-<p><br><p>
+<p><br>
  <b>Disclaimer</b><br>
  This code can be modified to any custom App, no prior permission needed!
- @Dice 2024<p><br>
- 
+ @Dice 2024<br>
  
  <b>Links</b><br>
 
