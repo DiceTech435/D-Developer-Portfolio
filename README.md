@@ -1,11 +1,11 @@
 
-<h1>Facebook-Like Reaction System</h1><p>
+<h1>Dynamic portfolio with live database</h1><p>
 
-<b>Facebook-Like Reaction System with PHP, JQUERY, AJAX AND SQL</b><p>
+<b>Dynamic portfolio with PHP, JQUERY, AJAX AND SQL</b><p>
 
 <b>==== STEPS TO RUN ====</b>
 
-- Locate and import execute the <b>"like_system.sql"</b> on <b>"DB sql"</b> folder
+- Locate and import execute the <b>"dice.sql"</b> on <b>"DB sql"</b> folder
 - Update the "Config.php" to your database connection configuration
 - Open <b>"localhost/path-to-file/posts.php"</b> in the Browser
 - You are Done!!
